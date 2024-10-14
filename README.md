@@ -52,6 +52,6 @@
 
 <br/>
 
-## 제6주차(교통자료의 분석)
+## 제6주차(교통정보 공공데이터 분석)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W06.ipynb)

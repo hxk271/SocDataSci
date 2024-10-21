@@ -55,3 +55,12 @@
 ## 제6주차(교통정보 공공데이터 분석)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W06.ipynb)
+
+
+<br/>
+
+## 제7주차(중간시험)
+
+-  [**문제**](https://github.com/hxk271/SocDataSci/blob/main/midterm.ipynb)
+
+-  [**답안**](https://github.com/hxk271/SocDataSci/blob/main/midterm_codes.ipynb)

@@ -38,7 +38,7 @@
 
 <br/>
 
-## 제4주차(``matplotlib``를 사용한 시각화 입문)
+## 제4주차(matplotlib를 사용한 시각화 입문)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W04.ipynb)
 
@@ -64,3 +64,10 @@
 -  [**문제**](https://github.com/hxk271/SocDataSci/blob/main/midterm.ipynb)
 
 -  [**답안**](https://github.com/hxk271/SocDataSci/blob/main/midterm_codes.ipynb)
+
+
+<br/>
+
+## 제8주차(pandas 시작하기)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W08.ipynb)

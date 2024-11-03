@@ -71,3 +71,10 @@
 ## 제8주차(pandas 시작하기)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W08.ipynb)
+
+
+<br/>
+
+## 제9주차(데이터 전처리 I)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W09.ipynb)

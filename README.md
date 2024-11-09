@@ -78,3 +78,10 @@
 ## 제9주차(데이터 전처리 I)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W09.ipynb)
+
+
+<br/>
+
+## 제10주차(데이터 전처리 II)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W10.ipynb)

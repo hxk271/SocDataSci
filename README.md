@@ -99,3 +99,10 @@
 ## 제12주차(시각화 미세조정)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W12.ipynb)
+
+
+<br/>
+
+## 제13주차(Streamlit 입문)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W13.ipynb)

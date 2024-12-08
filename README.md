@@ -106,3 +106,17 @@
 ## 제13주차(Streamlit 입문)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W13.ipynb)
+
+
+<br/>
+
+## 제14주차(데이터 대시보드 구축)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W14.ipynb)
+
+
+<br/>
+
+## 제15주차(기말시험)
+
+-  [**문제**](https://github.com/hxk271/SocDataSci/blob/main/Final.pdf)

@@ -52,3 +52,6 @@
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W06.ipynb)
 
+- 동영상 강의가 eCampus에 준비되어 있습니다. 10월 12일 23:59까지 이수해야 출석이 인정됩니다.
+
+

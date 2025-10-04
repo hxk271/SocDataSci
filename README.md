@@ -44,3 +44,11 @@
 ## 제5주차(인구 자료의 분석)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W05.ipynb)
+
+
+<br/>
+
+## 제6주차(교통정보 공공데이터 분석)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W06.ipynb)
+

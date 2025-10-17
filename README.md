@@ -60,3 +60,13 @@
 ## 제7주차(pandas 시작하기)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W07.ipynb)
+
+
+<br/>
+
+## 제8주차(중간시험)
+
+-  [**문제**](https://github.com/hxk271/SocDataSci/blob/main/archive/midterm.ipynb)
+
+-  [**답안**](https://github.com/hxk271/SocDataSci/blob/main/archive/midterm-codes.ipynb)
+

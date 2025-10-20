@@ -68,5 +68,5 @@
 
 -  [**문제**](https://github.com/hxk271/SocDataSci/blob/main/archive/midterm.ipynb)
 
--  [**답안**](https://github.com/hxk271/SocDataSci/blob/main/archive/midterm-codes.ipynb)
+-  [**답안**](https://github.com/hxk271/SocDataSci/blob/main/archive/midterm_codes.ipynb)
 

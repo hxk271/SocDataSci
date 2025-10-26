@@ -70,3 +70,10 @@
 
 -  [**답안**](https://github.com/hxk271/SocDataSci/blob/main/archive/midterm_codes.ipynb)
 
+
+<br/>
+
+## 제9주차(데이터 전처리 I)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W09.ipynb)
+

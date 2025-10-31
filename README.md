@@ -77,3 +77,10 @@
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W09.ipynb)
 
+
+<br/>
+
+## 제10주차(데이터 전처리 II)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W10.ipynb)
+

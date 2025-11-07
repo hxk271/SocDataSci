@@ -84,3 +84,9 @@
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W10.ipynb)
 
+
+<br/>
+
+## 제11주차(seaborn과 plotly 입문)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W11.ipynb)

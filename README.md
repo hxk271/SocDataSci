@@ -120,3 +120,8 @@
 -  [**문제**](https://github.com/hxk271/SocDataSci/blob/main/archive/Final.pdf)
 
 ✅ 안내: 제출 데드라인을 별도로 안내합니다.
+
+
+<br/>
+
+사랑하는 2025년 2학기 소셜데이터사이언스 수강생 여러분, 한 학기동안 수고 많았습니다!

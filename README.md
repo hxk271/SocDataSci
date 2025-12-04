@@ -117,10 +117,9 @@
 
 ## 제15주차(기말시험)
 
--  [**문제**](https://github.com/hxk271/SocDataSci/blob/main/archive/Final.pdf)
+-  [**문제**](https://github.com/hxk271/SocDataSci/blob/main/archive/final.pdf)
 
 ✅ 안내: 제출 데드라인은 12월 21일 자정입니다.
-
 
 <br/>
 

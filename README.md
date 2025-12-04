@@ -119,7 +119,7 @@
 
 -  [**문제**](https://github.com/hxk271/SocDataSci/blob/main/archive/Final.pdf)
 
-✅ 안내: 제출 데드라인을 별도로 안내합니다.
+✅ 안내: 제출 데드라인은 12월 21일 자정입니다.
 
 
 <br/>

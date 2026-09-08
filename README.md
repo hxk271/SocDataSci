@@ -17,3 +17,11 @@
 <br/>
 
 ## 제1주차(데이터 사이언스 소개)
+
+
+<br/>
+
+## 제2주차(``Hello World`` in Python)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W02.ipynb)
+

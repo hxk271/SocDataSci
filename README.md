@@ -56,3 +56,14 @@
 ✅ 안내: 제6주차 동영상 부분 강의가 eCampus에 준비되어 있습니다. 10월 23일 23:59까지 이수해야 출석이 인정됩니다.
 
 
+<br/>
+
+## 제7주차(pandas 시작하기)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W07.ipynb)
+
+
+<br/>
+
+## 제8주차(중간시험)
+

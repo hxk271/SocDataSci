@@ -92,3 +92,9 @@
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W11.ipynb)
 
+
+<br/>
+
+## 제12주차(Streamlit 입문)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/archive/W12.ipynb)
